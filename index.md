@@ -1,6 +1,6 @@
 ## Welcome to CMMenu
 
-![Image](1024.png)
+![Image](1024)
 
 We are all food lovers. 
 
